@@ -4,16 +4,16 @@ A simple scheduling app: a host publishes available time slots and anyone can bo
 
 Built for the TeamLift Product Engineer Internship Challenge.
 
-- **Live app:** [LIVE LINK]
+- **Live app:** https://slotly-app-kappa.vercel.app
 - **Repository:** https://github.com/emqqqqq/slotly-app
 
 ### Try it as the host
 
 Creating slots needs the host account (guests can book without any account):
 
-- Open `[LIVE LINK]/#manage`
+- Open `https://slotly-app-kappa.vercel.app/#manage`
 - Email: `admin@admin.admin`
-- Password: `admin`
+- Password: `adminadmin`
 
 This is a demo account created only for this challenge.
 
